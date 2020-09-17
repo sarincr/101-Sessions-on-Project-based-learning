@@ -25,4 +25,5 @@ Button switch module- 1pc.
 Photosensitive resistance module- 1pc.
 Vibration switch module- 1pc.
 POT   K
-
+BO Motor
+L298 Driver
